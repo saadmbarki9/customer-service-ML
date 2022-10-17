@@ -1,0 +1,8 @@
+lazypredict
+shap
+pandas
+numpy 
+seaborn
+sklearn 
+matplotlib
+joblib
